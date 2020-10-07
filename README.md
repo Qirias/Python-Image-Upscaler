@@ -29,7 +29,7 @@ There are three step in bilinear. <br>
 ![example](https://user-images.githubusercontent.com/49881189/95275496-4d77c480-0851-11eb-8871-a75ffc8254ca.png)
 <br>
 
-**Below you can see the differences between nearest neighbor and bilinear interpolation. In the *nearest* you get the color of the closest pixel, and in *bilinear* a rate of a pixels color depending on how far away it is, hence the smoothing effect.**
+**Below you can see the differences between nearest neighbor and bilinear interpolation. In the *nearest* you get the color of the closest pixel, and in *bilinear* a rate of a pixel's color depending on how far away it is, hence the smoothing effect.**
 ![example2](https://user-images.githubusercontent.com/49881189/95272140-4ef0bf00-0848-11eb-8f5a-83d89df3c4ef.png)
 <br>
 
